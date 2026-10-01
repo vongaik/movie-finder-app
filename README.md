@@ -1,6 +1,6 @@
 # 🎬 My Movie Finder App
 
-This is a responsive single-page web application that lets users **search, browse, and explore movies and actors** using live data from *The Movie Database (TMDb) API*. The app dynamically fetches and displays content without page reloads — offering a fast, interactive, and modern movie discovery experience.
+This is a responsive single-page web application that lets users **search, browse, and explore movies and actors** using live data from *The Movie Database (TMDb) API*. The app dynamically fetches and displays content without page reloads offering a fast, interactive, and modern movie discovery experience.
 
 [Visit site here](https://vongaik.github.io/movie-finder-app/)
 
